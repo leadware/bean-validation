@@ -44,7 +44,7 @@
   	<description>JSR 303 Extentions Tools</description>
   	
 	<!-- Project Version -->
-  	<version>1.0.0-RC6</version>  
+  	<version>1.0.0-RC7-SNAPSHOT</version>  
   	
 	<!-- Packaging -->
 	<packaging>jar</packaging>
