@@ -170,8 +170,8 @@ public class FileUtils {
 		
 		try {
 			
-			// On retourne 'état d'existence
-			return getFile(path) != null;
+			// On retourne d'état d'existence
+			return getFile(path).exists();
 			
 		} catch (Exception e) {
 			
